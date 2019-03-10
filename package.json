@@ -1,0 +1,27 @@
+{
+  "name": "vuepress-mergeable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "customize how a VuePress plugin merges its options",
+  "author": "Shigma <1700011071@pku.edu.cn>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shigma/vuepress-mergeable.git"
+  },
+  "dependencies": {
+    "deconstruct-merge": "^1.1.0"
+  },
+  "keywords": [
+    "vuepress",
+    "plugin",
+    "vuepress-plugin",
+    "options",
+    "config",
+    "merge"
+  ]
+}
