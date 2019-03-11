@@ -126,3 +126,8 @@ And this will be the merged options:
   bar: ['Hello'],
   baz: 'World' }
 ```
+
+## Contribution
+
+Contribution Welcome!
+
