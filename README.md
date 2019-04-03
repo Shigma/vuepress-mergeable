@@ -1,6 +1,5 @@
-# [vuepress-mergeable](https://shigma.github.io/vuepress-mergeable/)
+# [vuepress-mergeable](https://vuepress.github.io/tools/mergeable/)
 
-[![Build Status](https://travis-ci.org/Shigma/vuepress-mergeable.svg?branch=master)](https://travis-ci.org/Shigma/vuepress-mergeable)
 [![npm](https://img.shields.io/npm/v/vuepress-mergeable.svg)](https://www.npmjs.com/package/vuepress-mergeable)
 
 vuepress-mergeable is a tool for customizing how a VuePress plugin merges its options based on [deconstruct-merge](https://github.com/Shigma/deconstruct-merge).
