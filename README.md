@@ -1,5 +1,7 @@
 # [vuepress-mergeable](https://vuepress.github.io/tools/mergeable/)
 
+> Migrated to [vuepress-community](https://github.com/vuepress/vuepress-community)
+
 [![npm](https://img.shields.io/npm/v/vuepress-mergeable.svg)](https://www.npmjs.com/package/vuepress-mergeable)
 
 vuepress-mergeable is a tool for customizing how a VuePress plugin merges its options based on [deconstruct-merge](https://github.com/Shigma/deconstruct-merge).
